@@ -17,7 +17,7 @@ pink <- 11
 
 green <- 18
 
-orange <- pink/green
+blue <- pink/green
 
 ```
 
